@@ -16,7 +16,7 @@ Ideal candidates are compression, distortion and pitch shifters. Anything where 
 
 ## General Midi
 See this [](##midi map) from the appendix
-[summary midi map](https://github.com/objectivedynamics42/studio-one/blob/main/RecordingNotes.md "Appendix")
+[summary midi map](https://github.com/objectivedynamics42/studio-one/blob/main/RecordingNotes.md "#Appendix")
 
 A general midi percussion key map can be found here: https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf
 
