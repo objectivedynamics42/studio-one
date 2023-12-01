@@ -15,10 +15,8 @@ Ideal candidates are compression, distortion and pitch shifters. Anything where 
 # Programming a drum track
 
 ## General Midi
-See this [](##midi map) from the appendix
-[summary midi map](https://github.com/objectivedynamics42/studio-one/blob/main/RecordingNotes.md "#Appendix")
-
-A general midi percussion key map can be found here: https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf
+See the [summary midi map](https://github.com/objectivedynamics42/studio-one/blob/main/RecordingNotes.md "#Appendix") in the appendix
+A [more general midi percussion key map](https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf)
 
 ## Tips
 1. To duplicate a part or pattern, select the part or pattern and hit the D key
