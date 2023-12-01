@@ -40,22 +40,20 @@ D2|High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav
 F#1|Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav
 
 ## Assigning a drum to an output channel
+### TODO Add an example image and update the text
 In Impact click the drum pad's "output channel assignment" button. 
 This is the symbol that looks like a couple of overlapping circles in the bottom right hand corner of the drum pad.
 From the popup you can assign the drum to any channel.
 
 ## Adding effects
-TODO
+### TODO Complete This Section
 
 ## Sequencing patterns
 The Pattern Inspector can be used to create variations of a pattern. Click the 'i' as shown here:
 ![Pattern Editor Image](https://github.com/objectivedynamics42/studio-one/blob/main/images/pattern-editor-showing-info-button.png?raw=true)
 
-
-
 ## Quantizing
 Double click on the track and it will open the midie editor
-
 
 ## Separating Midi Drums into separate tracks
 This doesn't appear to work for drums where you've used "Convert part to pattern"...
@@ -64,22 +62,26 @@ Right click on the track (where the recording is) and select
 		Explode Pitches to Tracks
 
 ## Bouncing down Midi Tracks to Audio
+### TODO Make proper markdown links
 Select the tracks you want to bounce down (left hand side where the arm and monitor buttons are), right click and select "Transform to Audio Track"
 	https://www.youtube.com/watch?v=P4t4zngkrko
 
 
 # Recording Audio
 ## Audiobox iTwo
+### TODO Grab an example image from the net and update the text
 Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the input source button - below the guitar icon.
 For a guitar, if connecting directly to the iTwo, you should be using the instrument setting and the corresponding blue LED should be illuminated.
 If connecting via the Helix, you should use line level and the blue LED should be off.
 
 ## Hiding unused channels
+### TODO Add an example image and update the text
 It looks like Impact adds eight channels. If you assign all of your drums to the same channel that will give you 7 channels that you don't need.
 You can hide them from the channel list - click on the hamburger in the bottom left corner of studio one to bring it up. Then right click on
 a channel and select hide
 
 ## Setting levels in Studio One
+### TODO Make proper markdown links, add an example image and update the text
 Don't monitor using the normal channel strips. While you can use them they are really for use with outputs
 Instead, monitor the input level using the inputs tab in the console.
 	https://www.youtube.com/watch?v=Qz0afhER6fo
@@ -87,9 +89,11 @@ Instead, monitor the input level using the inputs tab in the console.
 Viewing the console:
 View | Console (F3)
 
+TODO Make proper markdown links and update the text
 The inputs tab can be opened and closed by clicking on the ->| icon on the left of the console
 https://www.youtube.com/watch?v=ZCJN9XxtPM4
 
+TODO Make proper markdown links and update the text
 On the AudioBox iTwo, turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty hard in between increments.
 You want the input level to be in the range -12db to -10db
 https://youtu.be/koho2W8FRkY?t=419
@@ -98,12 +102,14 @@ https://youtu.be/koho2W8FRkY?t=419
 Some guff or other goes here
 
 ## Click Track Volume
+### TODO add images and update the text
 Above the "Main" fader (whatever it's called?) are three icons:
 	Click On/Off	Seems independent of the one on the transport panel
 	Click Volume	Changes the click volume - set it low about -16dB
 	Channel Mode	(looks like it's similar to the arm button but I'm not sure)
 
 ## Troubleshooting
+### TODO add images and update the text
 1. Nothing showing on the input level meters in the inputs tab in the console:
 Check that you have the input (left or right/input 1 or input 2) selected for the channel
 
