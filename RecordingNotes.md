@@ -21,6 +21,7 @@ Here is a [ general midi percussion key map](https://musescore.org/sites/musesco
 1. To duplicate a part or pattern, select the part or pattern and hit the D key
 
 ## Steps to add a drum track
+### TODO Fix the list sub items
 1. Add an instrument track called "Kick"
 2. Drag an instance of Impact onto the newly added track
 2.1 I plan to add sound samples to this so I can just use the "default" kit
