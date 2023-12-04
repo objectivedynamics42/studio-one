@@ -27,7 +27,7 @@ Here is a [ general midi percussion key map](https://musescore.org/sites/musesco
 1. Add an instrument track called "Kick"
 2. Drag an instance of Impact onto the newly added track
 3. Assign sound samples to midi channels by dragging the sound file onto the corresponding Impact pad. See the general midi percussion key map listed above for the pads to target
-4. After dropping a sample onto a pad, right click and select "Rename pad". Applying a naming convention to pads can make the role of each pad easier to remember.
+4. After dropping a sample onto a pad, right-click and select "Rename pad". Applying a naming convention to pads can make the role of each pad easier to remember.
 Drum samples are stored here:
 > C:\Users\mike\Documents\Recording\Downloaded Samples\Drums
 
@@ -53,7 +53,7 @@ The Pattern Inspector can be used to create variations of a pattern. Click the '
 ![Pattern Editor Image](https://github.com/objectivedynamics42/studio-one/blob/main/images/pattern-editor-showing-info-button.png?raw=true)
 
 ## Quantizing
-Double click on the track and it will open the midie editor
+Double-click on the track and it will open the midi editor
 
 ## Separating Midi Drums into separate tracks
 This doesn't appear to work for drums where you've used "Convert part to pattern"...
@@ -62,11 +62,10 @@ Right click on the track (where the recording is) and select
 		Explode Pitches to Tracks
 
 ## Bouncing down Midi Tracks to Audio
-### TODO Make proper markdown links
-Select the tracks you want to bounce down (left hand side where the arm and monitor buttons are), right click and select
-"Transform to Audio Track"
-	https://www.youtube.com/watch?v=P4t4zngkrko
-
+Right-click the track that you want to bounce down and select *Transform to Audio Track*
+![Transform to Audio Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-input-source.png?raw=true)
+For further examples see 
+[this Presonus video on YouTube](https://www.youtube.com/watch?v=P4t4zngkrko)
 
 # Recording Audio
 ## Audiobox iTwo
@@ -83,7 +82,7 @@ If connecting via the Helix, you should use line level and the blue LED should b
 It looks like Impact adds eight channels. If you assign all of your drums to the same channel that will give you 7
 channels that you don't need.
 You can hide them from the channel list - click on the hamburger in the bottom left corner of studio one to bring it up.
-Then right click on a channel and select hide
+Then right-click on a channel and select hide
 
 ## Automatically returning to the start of a track once you've finished playing or recording
 Transport | Options |  Return to Start on Stop
