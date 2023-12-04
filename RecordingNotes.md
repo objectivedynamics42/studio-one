@@ -21,12 +21,10 @@ Here is a [ general midi percussion key map](https://musescore.org/sites/musesco
 1. To duplicate a part or pattern, select the part or pattern and hit the D key
 
 ## Steps to add a drum track
-### TODO Fix the list sub items
 1. Add an instrument track called "Kick"
 2. Drag an instance of Impact onto the newly added track
-2.1 I plan to add sound samples to this so I can just use the "default" kit
 3. Assign sound samples to midi channels by dragging the sound file onto the corresponding Impact pad. See the general midi percussion key map listed above for the pads to target
-3.1 After dropping a sample onto a pad, right click and select "Rename pad". Applying a naming convention to pads can make the role of each pad easier to remember.
+4. After dropping a sample onto a pad, right click and select "Rename pad". Applying a naming convention to pads can make the role of each pad easier to remember.
 Drum samples are stored here:
 > C:\Users\mike\Documents\Recording\Downloaded Samples\Drums
 	
@@ -40,10 +38,8 @@ D2|High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav
 F#1|Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav
 
 ## Assigning a drum to an output channel
-### TODO Add an example image and update the text
-In Impact click the drum pad's "output channel assignment" button. 
-This is the symbol that looks like a couple of overlapping circles in the bottom right hand corner of the drum pad.
-From the popup you can assign the drum to any channel.
+In Impact click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any channel:
+![Impact Output Assignment Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/impact-output-channelhighlighted?raw=true)
 
 ## Adding effects
 ### TODO Complete This Section
@@ -79,6 +75,9 @@ If connecting via the Helix, you should use line level and the blue LED should b
 It looks like Impact adds eight channels. If you assign all of your drums to the same channel that will give you 7 channels that you don't need.
 You can hide them from the channel list - click on the hamburger in the bottom left corner of studio one to bring it up. Then right click on
 a channel and select hide
+
+## Automatically returning to the start of a track once you've finished playing or recording
+Transport | Options |  Return to Start on Stop
 
 ## Setting levels in Studio One
 ### TODO Make proper markdown links, add an example image and update the text
