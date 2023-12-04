@@ -2,15 +2,25 @@
 This page is best viewed using a Markdown Viwer. I use [Markdown Viewer](https://github.com/simov/markdown-viewer) in Chrome.
 
 # Glossary
-## Track
-A component of the "Arrange" view. Shows the actual recorded signal
-## Channel
-A component of the "Console" view. Used in muting soloing, panning and setting the output volume of a single source
+## Tracks and Channels
+A *track* is a component of the *Song Arranger* view
+![A Studio One Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/track.png?raw=true)
+
+A channel is a component of the *Console* view
+![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel.png?raw=true)
+
+
+
+This is explored further in the video [NO, Tracks and Channels are NOT the same. Here's why](https://www.youtube.com/watch?v=5POLA2HMtRM)
+by Presonus
+
 ## Sends
+TODO - add an image here
 Sends can blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
 advantage is that when you add a reverb to a send Studio One creates a separate effects channel for it. You can then add
 an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal
 ## Inserts
+TODO - add an image here
 Insert effects will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
 a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
 you want the effect to be applied to the whole signal.
@@ -62,7 +72,7 @@ Right click on the track (where the recording is) and select
 		Explode Pitches to Tracks
 
 ## Bouncing down Midi Tracks to Audio
-Right-click the track that you want to bounce down and select *Transform to Audio Track*:
+Right-click the channel that you want to bounce down and select *Transform to Audio Track*:
 
 ![Transform to Audio Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/transform-to-audio-track.png?raw=true)
 
