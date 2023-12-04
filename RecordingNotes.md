@@ -27,7 +27,7 @@ Here is a [ general midi percussion key map](https://musescore.org/sites/musesco
 4. After dropping a sample onto a pad, right click and select "Rename pad". Applying a naming convention to pads can make the role of each pad easier to remember.
 Drum samples are stored here:
 > C:\Users\mike\Documents\Recording\Downloaded Samples\Drums
-	
+
 |Key|Name|Sample|
 |---|----|------|
 C1|Kick|Bass Drums\TS_NIR_Z_JJ_kick_one_shot_true_hard.wav
@@ -38,8 +38,8 @@ D2|High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav
 F#1|Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav
 
 ## Assigning a drum to an output channel
-In Impact click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any channel:
-![Impact Output Assignment Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/impact-output-channelhighlighted?raw=true)
+In Impact, click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any channel:
+![Impact Output Assignment Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/impact-output-channelhighlighted.png?raw=true)
 
 ## Adding effects
 ### TODO Complete This Section
