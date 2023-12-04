@@ -7,10 +7,13 @@ A component of the "Arrange" view. Shows the actual recorded signal
 ## Channel
 A component of the "Console" view. Used in muting soloing, panning and setting the output volume of a single source
 ## Sends
-Sends can blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second advantage is that when you add a reverb to a send Studio One creates a separate effects channel for it. You can then add an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal
+Sends can blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
+advantage is that when you add a reverb to a send Studio One creates a separate effects channel for it. You can then add
+an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal
 ## Inserts
-Insert effects will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is a wholly effected copy of what goes in.
-Ideal candidates are compression, distortion and pitch shifters. Anything where you want the effect to be applied to the whole signal.
+Insert effects will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
+a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
+you want the effect to be applied to the whole signal.
 
 # Programming a drum track
 
@@ -38,7 +41,8 @@ D2|High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav
 F#1|Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav
 
 ## Assigning a drum to an output channel
-In Impact, click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any channel:
+In Impact, click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any
+channel:
 ![Impact Output Assignment Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/impact-output-channelhighlighted.png?raw=true)
 
 ## Adding effects
@@ -59,24 +63,28 @@ Right click on the track (where the recording is) and select
 
 ## Bouncing down Midi Tracks to Audio
 ### TODO Make proper markdown links
-Select the tracks you want to bounce down (left hand side where the arm and monitor buttons are), right click and select "Transform to Audio Track"
+Select the tracks you want to bounce down (left hand side where the arm and monitor buttons are), right click and select
+"Transform to Audio Track"
 	https://www.youtube.com/watch?v=P4t4zngkrko
 
 
 # Recording Audio
 ## Audiobox iTwo
 ### TODO Grab an example image from the net and update the text
-Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the input source button:
+Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the
+input source button. Channel 1's (left) input source button is highlighted below:
 ![AudioBox iTwo input source](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-input-source.png?raw=true)
 
-For a guitar, if connecting directly to the iTwo, you should be using the instrument setting and the corresponding blue LED should be illuminated.
+For a guitar, if connecting directly to the iTwo, you should be using the instrument setting and the corresponding blue
+LED should be illuminated.
 If connecting via the Helix, you should use line level and the blue LED should be off.
 
 ## Hiding unused channels
 ### TODO Add an example image and update the text
-It looks like Impact adds eight channels. If you assign all of your drums to the same channel that will give you 7 channels that you don't need.
-You can hide them from the channel list - click on the hamburger in the bottom left corner of studio one to bring it up. Then right click on
-a channel and select hide
+It looks like Impact adds eight channels. If you assign all of your drums to the same channel that will give you 7
+channels that you don't need.
+You can hide them from the channel list - click on the hamburger in the bottom left corner of studio one to bring it up.
+Then right click on a channel and select hide
 
 ## Automatically returning to the start of a track once you've finished playing or recording
 Transport | Options |  Return to Start on Stop
@@ -95,8 +103,8 @@ The inputs tab can be opened and closed by clicking on the ->| icon on the left 
 https://www.youtube.com/watch?v=ZCJN9XxtPM4
 
 TODO Make proper markdown links and update the text
-On the AudioBox iTwo, turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty hard in between increments.
-You want the input level to be in the range -12db to -10db
+On the AudioBox iTwo, turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
+hard in between increments. You want the input level to be in the range -12db to -10db
 https://youtu.be/koho2W8FRkY?t=419
 
 ## Effects
