@@ -66,7 +66,9 @@ Select the tracks you want to bounce down (left hand side where the arm and moni
 # Recording Audio
 ## Audiobox iTwo
 ### TODO Grab an example image from the net and update the text
-Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the input source button - below the guitar icon.
+Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the input source button:
+![AudioBox iTwo input source](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-input-source.png?raw=true)
+
 For a guitar, if connecting directly to the iTwo, you should be using the instrument setting and the corresponding blue LED should be illuminated.
 If connecting via the Helix, you should use line level and the blue LED should be off.
 
