@@ -1,14 +1,12 @@
 # Glossary
 ## Tracks and Channels
-A *track* is a component of the *Song Arranger* view
+A *track* is a component of the *Song Arranger* view 
 
 ![A Studio One Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/track.png?raw=true)
 
 A channel is a component of the *Console* view
 
 ![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel.png?raw=true)
-
-
 
 This is explored further in the video [NO, Tracks and Channels are NOT the same. Here's why](https://www.youtube.com/watch?v=5POLA2HMtRM)
 by Presonus
