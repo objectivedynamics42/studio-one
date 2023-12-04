@@ -25,6 +25,14 @@ you want the effect to be applied to the whole signal. Here is a channel with an
 
 ![Insert with Reverb](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-insert-full-size.png?raw=true)
 
+## Track List
+
+![Track List](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-full-size.png?raw=true)
+
+## Channel List
+TODO - add image and text
+
+
 # Programming a drum track
 
 ## General Midi
