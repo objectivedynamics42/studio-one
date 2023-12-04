@@ -21,8 +21,8 @@ Here is a channel showing a send configured for a compressor:
 ## Inserts
 Insert effects will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
 a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
-you want the effect to be applied to the whole signal.
-Here is a channel with an insert configured for a reverb:
+you want the effect to be applied to the whole signal. Here is a channel with an insert configured for a reverb:
+
 ![Insert with Reverb](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-insert-full-size.png?raw=true)
 
 # Programming a drum track
