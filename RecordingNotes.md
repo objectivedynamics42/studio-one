@@ -1,15 +1,12 @@
 # Glossary
 ## Tracks and Channels
 A *track* is a component of the *Song Arranger* view 
-
-![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel.png?raw=true)
+![A Studio One Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-527-60.png?raw=true)
 
 A channel is a component of the *Console* view
-
 ![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel.png?raw=true)
 
-This is explored further in the video [NO, Tracks and Channels are NOT the same. Here's why](https://www.youtube.com/watch?v=5POLA2HMtRM)
-by Presonus
+These concepts are explored further in [this Presonus video](https://www.youtube.com/watch?v=5POLA2HMtRM)
 
 ## Sends
 TODO - add an image here
@@ -38,14 +35,14 @@ Here is a [ general midi percussion key map](https://musescore.org/sites/musesco
 Drum samples are stored here:
 > C:\Users\mike\Documents\Recording\Downloaded Samples\Drums
 
-|Key|Name|Sample|
-|---|----|------|
-C1|Kick|Bass Drums\TS_NIR_Z_JJ_kick_one_shot_true_hard.wav
-D1|Acoustic snare|Snares\TS_NIR_Z_JJ_snare_one_shot_craviolow_hard.wav
-F1|Floor Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_3_hard.wav
-B1|Low-Mid Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_2_hard.wav
-D2|High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav
-F#1|Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav
+| Key |Name|Sample|
+|-----|----|------|
+| C1  |Kick|Bass Drums\TS_NIR_Z_JJ_kick_one_shot_true_hard.wav|
+| D1  |Acoustic snare|Snares\TS_NIR_Z_JJ_snare_one_shot_craviolow_hard.wav|
+| F1  |Floor Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_3_hard.wav|
+| B1  |Low-Mid Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_2_hard.wav|
+| D2  |High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav|
+| F#1 |Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav|
 
 ## Assigning a drum to an output channel
 In Impact, click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any
