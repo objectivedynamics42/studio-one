@@ -11,12 +11,15 @@ A channel is a component of the *Console* view
 These concepts are explored further in [this Presonus video](https://www.youtube.com/watch?v=5POLA2HMtRM)
 
 ## Sends
-TODO - add an image here
-Sends can blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
+An effects sends can be used to blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
 advantage is that when you add a reverb to a send Studio One creates a separate effects channel for it. You can then add
-an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal
+an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal.
+Here is a send configured for a compressor:
+![Send with Compressor](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-send-fulls-size.png?raw=true)
+
 ## Inserts
 TODO - add an image here
+
 Insert effects will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
 a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
 you want the effect to be applied to the whole signal.
@@ -87,6 +90,7 @@ If connecting via the Helix, you should use line level and the blue LED should b
 
 ## Hiding unused channels
 ### TODO Add an example image and update the text
+
 It looks like Impact adds eight channels. If you assign all of your drums to the same channel that will give you 7
 channels that you don't need.
 You can hide them from the channel list - click on the hamburger in the bottom left corner of studio one to bring it up.
@@ -96,10 +100,11 @@ Then right-click on a channel and select hide
 Transport | Options |  Return to Start on Stop
 
 ## Setting levels in Studio One
-### TODO Make proper markdown links, add an example image and update the text
+### TODO add an example image and update the text
+
 Don't monitor using the normal channel strips. While you can use them they are really for use with outputs
-Instead, monitor the input level using the inputs tab in the console.
-	https://www.youtube.com/watch?v=Qz0afhER6fo
+Instead, monitor the input level using the inputs tab in the console. See [this video](https://www.youtube.com/watch?v=Qz0afhER6fo) for more information
+
 
 Viewing the console:
 View | Console (F3)
