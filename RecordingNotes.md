@@ -1,29 +1,22 @@
 # Glossary
 ## Tracks and Channels
-A *track* is a component of the *Song Arranger* view 
-
-![A Studio One Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-527-60.png?raw=true)
-
-A channel is a component of the *Console* view
-
-![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-50-205.png?raw=true)
+Tracks and channels are different things:
+* [A track](##a_studio_one_track) is a component of the *Song Arranger* view. 
+* [A channel](##a_studio_one_channel) is a component of the *Console* view
 
 These concepts are explored further in [this Presonus video](https://www.youtube.com/watch?v=5POLA2HMtRM)
 
 ## Sends
-An effects sends can be used to blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
+A [send effect](##a_studio_one_send_with_compressor) can be used to blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
 advantage is that when you add a reverb to a send Studio One creates a separate effects channel for it. You can then add
 an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal.
 Here is a channel showing a send configured for a compressor:
 
-![Send with Compressor](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-send-fulls-size.png?raw=true)
 
 ## Inserts
-Insert effects will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
+An [insert effect](a_studio_one_insert_with_reverb) will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
 a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
 you want the effect to be applied to the whole signal. Here is a channel with an insert configured for a reverb:
-
-![Insert with Reverb](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-insert-full-size.png?raw=true)
 
 ## Track List
 
@@ -151,3 +144,18 @@ Does the AudioBox iTwo support zero latency hardware monitoring?
 
 
 # Appendix
+## A Studio One Track <a name="a_studio_one_track"></a>
+
+![A Studio One Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-527-60.png?raw=true)
+
+## A Studio One Channel <a name="a_studio_one_channel"></a>
+
+![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-50-205.png?raw=true)
+
+## A Studio One Send with Compressor <a name="a_studio_one_send_with_compressor"></a>"
+
+![A Studio One Send with Compressor](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-send-fulls-size.png?raw=true)
+
+## A Studio One Insert with Reverb <a name="a_studio_one_insert_with_reverb"></a>"
+
+![Insert with Reverb](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-insert-full-size.png?raw=true)
