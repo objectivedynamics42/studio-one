@@ -70,7 +70,6 @@ Select the tracks you want to bounce down (left hand side where the arm and moni
 
 # Recording Audio
 ## Audiobox iTwo
-### TODO Grab an example image from the net and update the text
 Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the
 input source button. Channel 1's (left) input source button is highlighted below:
 ![AudioBox iTwo input source](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-input-source.png?raw=true)
