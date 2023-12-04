@@ -63,7 +63,7 @@ Right click on the track (where the recording is) and select
 
 ## Bouncing down Midi Tracks to Audio
 Right-click the track that you want to bounce down and select *Transform to Audio Track*
-![Transform to Audio Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-input-source.png?raw=true)
+![Transform to Audio Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/transform-to-audio-track.png?raw=true)
 For further examples see 
 [this Presonus video on YouTube](https://www.youtube.com/watch?v=P4t4zngkrko)
 
