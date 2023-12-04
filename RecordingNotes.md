@@ -14,15 +14,16 @@ These concepts are explored further in [this Presonus video](https://www.youtube
 An effects sends can be used to blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
 advantage is that when you add a reverb to a send Studio One creates a separate effects channel for it. You can then add
 an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal.
-Here is a send configured for a compressor:
+
+Here is a channel showing a send configured for a compressor:
 ![Send with Compressor](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-send-fulls-size.png?raw=true)
 
 ## Inserts
-TODO - add an image here
-
 Insert effects will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
 a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
 you want the effect to be applied to the whole signal.
+Here is a channel with an insert configured for a reverb:
+![Insert with Reverb](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-insert-50-161.png?raw=true)
 
 # Programming a drum track
 
