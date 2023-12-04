@@ -2,7 +2,7 @@
 ## Tracks and Channels
 A *track* is a component of the *Song Arranger* view 
 
-![A Studio One Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/track.png?raw=true)
+![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel.png?raw=true)
 
 A channel is a component of the *Console* view
 
