@@ -20,7 +20,16 @@ you want the effect to be applied to the whole signal. Here is a channel with an
 
 ## Track List
 
-![Track List](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-full-size.png?raw=true)
+Opening the track list:
+
+![Track List Button](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-full-size.png?raw=true)
+
+
+The track list showing Volume and Pan automation tracks:
+
+![Track List Open](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-open-full-size.png?raw=true)
+
+
 
 ## Channel List
 
