@@ -1,8 +1,8 @@
 # Glossary
 ## Tracks and Channels
 Tracks and channels are different things:
-* [A track](##a_studio_one_track) is a component of the *Song Arranger* view. 
-* [A channel](##a_studio_one_channel) is a component of the *Console* view
+* [A track](#a_studio_one_track) is a component of the *Song Arranger* view. 
+* [A channel](#a_studio_one_channel) is a component of the *Console* view
 
 These concepts are explored further in [this Presonus video](https://www.youtube.com/watch?v=5POLA2HMtRM)
 
@@ -152,10 +152,10 @@ Does the AudioBox iTwo support zero latency hardware monitoring?
 
 ![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-50-205.png?raw=true)
 
-## A Studio One Send with Compressor <a name="a_studio_one_send_with_compressor"></a>"
+## A Studio One Send with Compressor <a name="a_studio_one_send_with_compressor"></a>
 
 ![A Studio One Send with Compressor](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-send-fulls-size.png?raw=true)
 
-## A Studio One Insert with Reverb <a name="a_studio_one_insert_with_reverb"></a>"
+## A Studio One Insert with Reverb <a name="a_studio_one_insert_with_reverb"></a>
 
 ![Insert with Reverb](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-insert-full-size.png?raw=true)
