@@ -23,7 +23,8 @@ you want the effect to be applied to the whole signal. Here is a channel with an
 ![Track List](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-full-size.png?raw=true)
 
 ## Channel List
-TODO - add image and text
+
+![Channel List](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-full-size.png?raw=true)
 
 
 # Programming a drum track
@@ -136,12 +137,11 @@ Above the "Main" fader (whatever it's called?) are three icons:
 Check that you have the input (left or right/input 1 or input 2) selected for the channel
 
 ## Questions
-Does the AudioBox iTwo support zero latency hardware monitoring?
-	If it does, see if you can monitor Ampire and the like directly from the headphone out on the iTwo
-	Also, is it possible to add, say, reverb to the headphone mix without it being added to the recording.
+1. Does the AudioBox iTwo support zero latency hardware monitoring?
+    1. it does, see if you can monitor Ampire and the like directly from the headphone out on the iTwo
+2. is it possible to add, say, reverb to the headphone mix without it being added to the recording.
 	This latter trick is often employed to make the performer feel more comfortable with the overall
 	sound without actually committing the reverb to the track
-
 
 # Appendix
 ## A Studio One Track <a name="a_studio_one_track"></a>
