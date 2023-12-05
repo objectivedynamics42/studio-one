@@ -179,3 +179,6 @@ The Channel List:
 
 ![Channel List Open](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-open-full-size.png?raw=true)
 
+Channel List Operations:
+
+![Channel List Operations](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-operations-full-size.png?raw=true)
