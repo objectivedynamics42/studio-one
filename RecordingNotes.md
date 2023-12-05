@@ -19,22 +19,10 @@ a wholly effected copy of what goes in. Ideal candidates are compression, distor
 you want the effect to be applied to the whole signal. Here is a channel with an insert configured for a reverb:
 
 ## Track List
-
-Opening the track list:
-
-![Track List Button](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-full-size.png?raw=true)
-
-
-The track list showing Volume and Pan automation tracks:
-
-![Track List Open](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-open-full-size.png?raw=true)
-
-
+Supports interaction with automation tracks for e.g. volume and pan. See [opening and viewing the track list](#studio_one_opening_and_viewing_track_list)
 
 ## Channel List
-
-![Channel List](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-full-size.png?raw=true)
-
+[opening and viewing the channel list](#studio_one_opening_and_viewing_channel_list)
 
 # Programming a drum track
 
@@ -161,10 +149,33 @@ Check that you have the input (left or right/input 1 or input 2) selected for th
 
 ![A Studio One Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-50-205.png?raw=true)
 
-## A Studio One Send with Compressor <a name="a_studio_one_send_with_compressor"></a>
+## A channel with a compressor as a send effect<a name="a_studio_one_send_with_compressor"></a>
 
 ![A Studio One Send with Compressor](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-send-fulls-size.png?raw=true)
 
-## A Studio One Insert with Reverb <a name="a_studio_one_insert_with_reverb"></a>
+## A channel with a Reverb as an insert <a name="a_studio_one_insert_with_reverb"></a>
 
 ![Insert with Reverb](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-with-insert-full-size.png?raw=true)
+
+
+## Opening and viewing the track list<a name="studio_one_opening_and_viewing_track_list"></a>
+
+Opening:
+
+![Track List Button](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-full-size.png?raw=true)
+
+Viewing:
+
+![Track List Open](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-open-full-size.png?raw=true)
+
+##  Opening and viewing the channel list<a name="studio_one_opening_and_viewing_channel_list"></a>
+
+Opening:
+
+![Channel List Button](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-full-size.png?raw=true)
+
+Viewing:
+
+![Channel List Open](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-open-full-size.png?raw=true)
+
+
