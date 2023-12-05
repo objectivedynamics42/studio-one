@@ -22,7 +22,8 @@ you want the effect to be applied to the whole signal. Here is a channel with an
 Supports interaction with automation tracks for e.g. volume and pan. See [opening and viewing the track list](#studio_one_opening_and_viewing_track_list)
 
 ## Channel List
-[opening and viewing the channel list](#studio_one_opening_and_viewing_channel_list)
+The *Channel List* offers tools for grouping and adding busses for tracks. You can also show and hide tracks from here.
+It can be opened using the *Channel List button*. See [opening and viewing the channel list](#studio_one_opening_and_viewing_channel_list)
 
 # Programming a drum track
 
@@ -160,22 +161,21 @@ Check that you have the input (left or right/input 1 or input 2) selected for th
 
 ## Opening and viewing the track list<a name="studio_one_opening_and_viewing_track_list"></a>
 
-Opening:
+The Track List button:
 
 ![Track List Button](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-full-size.png?raw=true)
 
-Viewing:
+The Track List showing automation tracks for volume and pan:
 
 ![Track List Open](https://github.com/objectivedynamics42/studio-one/blob/main/images/track-list-open-full-size.png?raw=true)
 
 ##  Opening and viewing the channel list<a name="studio_one_opening_and_viewing_channel_list"></a>
 
-Opening:
+The Channel List button:
 
 ![Channel List Button](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-full-size.png?raw=true)
 
-Viewing:
+The Channel List:
 
 ![Channel List Open](https://github.com/objectivedynamics42/studio-one/blob/main/images/channel-list-open-full-size.png?raw=true)
-
 
