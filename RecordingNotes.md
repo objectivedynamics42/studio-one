@@ -12,7 +12,6 @@ advantage is that when you add a reverb to a send Studio One creates a separate 
 an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal.
 Here is a channel showing a send configured for a compressor:
 
-
 ## Inserts
 An [insert effect](#a_studio_one_insert_with_reverb) will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
 a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
@@ -21,14 +20,14 @@ you want the effect to be applied to the whole signal. Here is a channel with an
 ## Track List
 Supports interaction with automation tracks for e.g. volume and pan. See [opening and viewing the track list](#studio_one_opening_and_viewing_track_list)
 
-## Channel List
+## Channel List<a name="channel_list">/a>
 The *Channel List* offers tools for grouping and adding busses for tracks. You can also show and hide tracks from here.
 It can be opened using the *Channel List button*. See [opening and viewing the channel list](#studio_one_opening_and_viewing_channel_list)
 
 # Programming a drum track
 
 ## General Midi
-Here is a [ general midi percussion key map](https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf)
+Here is a [general midi percussion key map](https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf)
 
 ## Tips
 1. To duplicate a part or pattern, select the part or pattern and hit the D key
@@ -90,12 +89,7 @@ LED should be illuminated.
 If connecting via the Helix, you should use line level and the blue LED should be off.
 
 ## Hiding unused channels
-### TODO Add an example image and update the text
-
-It looks like Impact adds eight channels. If you assign all of your drums to the same channel that will give you 7
-channels that you don't need.
-You can hide them from the channel list - click on the hamburger in the bottom left corner of studio one to bring it up.
-Then right-click on a channel and select hide
+You can hide tracks using [the channel list](#channel_list)
 
 ## Automatically returning to the start of a track once you've finished playing or recording
 Transport | Options |  Return to Start on Stop
