@@ -20,7 +20,7 @@ you want the effect to be applied to the whole signal. Here is a channel with an
 ## Track List
 Supports interaction with automation tracks for e.g. volume and pan. See [opening and viewing the track list](#studio_one_opening_and_viewing_track_list)
 
-## Channel List<a name="channel_list">/a>
+## Channel List<a name="channel_list"></a>
 The *Channel List* offers tools for grouping and adding busses for tracks. You can also show and hide tracks from here.
 It can be opened using the *Channel List button*. See [opening and viewing the channel list](#studio_one_opening_and_viewing_channel_list)
 
