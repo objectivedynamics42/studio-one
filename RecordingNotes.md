@@ -46,11 +46,13 @@ LED should be illuminated.
 If connecting via the Helix, you should use line level and the blue LED should be off.
 
 ### Direct Monitor Mix
-Provided you don't need to hear any plugins on the signal as you record a part, you can reduce latency to zero using AudioBox iTwo's Direct Mix:
+As you record a part, provided you don't need to hear any plugins in the headphones, you can reduce latency to zero using AudioBox iTwo's Direct Mix:
 
 ![Direct Monitor Mix](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-direct-monitor-mix.png?raw=true)
 
-Turn the control fully clockwise to hear the processed sound complete with plugins and turn it fully antickockwise to hear the direct sound with no latency
+Turn the control fully clockwise to hear the processed sound complete with plugins and turn it fully antickockwise to hear the inputs direct sound with no latency.
+
+Direct monitoring for guitar  is likely to be most useful when using mostly outboard amps and effects as you will still hear them in the monitor.
 
 # Programming a drum track
 
