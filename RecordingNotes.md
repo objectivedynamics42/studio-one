@@ -54,12 +54,6 @@ Round trip values below 10ms are recommended:
 ![Audio Roundtrip](https://github.com/objectivedynamics42/studio-one/blob/main/images/latency-display.png?raw=true)
 
 # Recording Audio
-## Hiding unused channels
-You can hide tracks using [the channel list](#channel_list)
-
-## Automatically returning to the start of a track once you've finished playing or recording
-Transport | Options |  Return to Start on Stop
-
 ## Setting levels
 ### In AudioBox iTwo
 Turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
@@ -73,6 +67,12 @@ Instead, monitor the input level using the inputs tab in the console:
 ![input tab](https://github.com/objectivedynamics42/studio-one/blob/main/images/inputs-tab.png?raw=true)
 
 See also [how to set recording levels (video)](https://www.youtube.com/watch?v=Qz0afhER6fo).
+
+## Hiding unused channels
+You can hide tracks using [the channel list](#channel_list)
+
+## Automatically returning to the start of a track once you've finished playing or recording
+Transport | Options |  Return to Start on Stop
 
 ## The Studio One User Interface
 ### Viewing the console
