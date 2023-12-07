@@ -35,6 +35,23 @@ Values below 10ms are recommended:
 
 ![Audio Roundtrip](https://github.com/objectivedynamics42/studio-one/blob/main/images/latency-display.png?raw=true)
 
+## Audiobox iTwo
+### Inputs
+Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the
+input source button. Channel 1's (left) input source button is highlighted below:
+![AudioBox iTwo input source](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-input-source.png?raw=true)
+
+For a guitar, if connecting directly to the iTwo, you should be using the instrument setting and the corresponding blue
+LED should be illuminated.
+If connecting via the Helix, you should use line level and the blue LED should be off.
+
+### Direct Monitor Mix
+Provided you don't need to hear any plugins on the signal as you record a part, you can reduce latency to zero using AudioBox iTwo's Direct Mix:
+
+![Direct Monitor Mix](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-direct-monitor-mix.png?raw=true)
+
+Turn the control fully clockwise to hear the processed sound complete with plugins and turn it fully antickockwise to hear the direct sound with no latency
+
 # Programming a drum track
 
 ## General Midi
@@ -90,15 +107,6 @@ For further examples see
 [this Presonus video on YouTube](https://www.youtube.com/watch?v=P4t4zngkrko)
 
 # Recording Audio
-## Audiobox iTwo
-Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the
-input source button. Channel 1's (left) input source button is highlighted below:
-![AudioBox iTwo input source](https://github.com/objectivedynamics42/studio-one/blob/main/images/audiobox-itwo-input-source.png?raw=true)
-
-For a guitar, if connecting directly to the iTwo, you should be using the instrument setting and the corresponding blue
-LED should be illuminated.
-If connecting via the Helix, you should use line level and the blue LED should be off.
-
 ## Hiding unused channels
 You can hide tracks using [the channel list](#channel_list)
 
