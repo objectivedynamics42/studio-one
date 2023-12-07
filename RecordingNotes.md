@@ -105,8 +105,7 @@ Right-click the channel that you want to bounce down and select *Transform to Au
 
 ![Transform to Audio Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/transform-to-audio-track.png?raw=true)
 
-For further examples see 
-[this Presonus video on YouTube](https://www.youtube.com/watch?v=P4t4zngkrko)
+For further examples see [Track Transform in Studio One (video)](https://www.youtube.com/watch?v=P4t4zngkrko)
 
 # Recording Audio
 ## Hiding unused channels
@@ -122,19 +121,19 @@ Instead, monitor the input level using the inputs tab in the console:
 
 ![input tab](https://github.com/objectivedynamics42/studio-one/blob/main/images/inputs-tab.png?raw=true)
 
-See also [this video](https://www.youtube.com/watch?v=Qz0afhER6fo) for more information
+See also [how to set recording levels (video)](https://www.youtube.com/watch?v=Qz0afhER6fo).
 
 ### In AudioBox iTwo
 Turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
 hard in between increments. You want the input level to be in the range -12db to -10db.
-For more information, see [this video on recording the electric guitar](https://youtu.be/koho2W8FRkY?t=419)
+For more information, see [Recording in Studio One Made Easy: Recording Electric Guitar (video)](https://youtu.be/koho2W8FRkY?t=419)
 
 ## The Studio One User Interface
 ### Viewing the console
 ```
 View | Console (F3)
 ```
-See [this video covering mixer options and layouts in Studio One](https://www.youtube.com/watch?v=ZCJN9XxtPM4)
+See [Mixer Options and Layouts in Studio One (video)](https://www.youtube.com/watch?v=ZCJN9XxtPM4)
 
 ## Effects
 Some guff or other goes here
