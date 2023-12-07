@@ -120,7 +120,7 @@ Transport | Options |  Return to Start on Stop
 Don't monitor using the normal channel strips. While you can use them they are really for use with outputs
 Instead, monitor the input level using the inputs tab in the console:
 
-![input tab](https://github.com/objectivedynamics42/studio-one/blob/main/images/inputs-tab.png?raw=true
+![input tab](https://github.com/objectivedynamics42/studio-one/blob/main/images/inputs-tab.png?raw=true)
 
 See [this video](https://www.youtube.com/watch?v=Qz0afhER6fo) for more information
 
