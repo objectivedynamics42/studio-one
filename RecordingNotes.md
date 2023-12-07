@@ -47,7 +47,7 @@ Direct monitoring for guitar  is likely to be most useful when using mostly outb
 ### Latency
 Various parameters affect latency. These along with the current rount trip latency can be found here:
 ```
-    Studio one | Options... | Audio Setup | Processing 
+    Studio one -> Options... -> Audio Setup -> Processing 
 ```
 Round trip values below 10ms are recommended:
 
@@ -73,13 +73,13 @@ You can hide tracks using [the channel list](#channel_list)
 
 ## Automatically returning to the start of a track once you've finished playing or recording
 ```
-Transport | Options |  Return to Start on Stop
+Transport -> Options ->  Return to Start on Stop
 ```
 
 ## The Studio One User Interface
 ### Viewing the console
 ```
-View | Console (F3)
+View -> Console (F3)
 ```
 See [Mixer Options and Layouts in Studio One (video)](https://www.youtube.com/watch?v=ZCJN9XxtPM4)
 
