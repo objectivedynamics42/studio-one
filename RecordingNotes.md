@@ -114,6 +114,11 @@ You can hide tracks using [the channel list](#channel_list)
 Transport | Options |  Return to Start on Stop
 
 ## Setting levels
+### In AudioBox iTwo
+Turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
+hard in between increments. You want the input level to be in the range -12db to -10db.
+For more information, see [Recording in Studio One Made Easy: Recording Electric Guitar (video)](https://youtu.be/koho2W8FRkY?t=419)
+
 ### In Studio One
 Don't monitor using the normal channel strips. While you can use them they are really for use with outputs
 Instead, monitor the input level using the inputs tab in the console:
@@ -121,11 +126,6 @@ Instead, monitor the input level using the inputs tab in the console:
 ![input tab](https://github.com/objectivedynamics42/studio-one/blob/main/images/inputs-tab.png?raw=true)
 
 See also [how to set recording levels (video)](https://www.youtube.com/watch?v=Qz0afhER6fo).
-
-### In AudioBox iTwo
-Turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
-hard in between increments. You want the input level to be in the range -12db to -10db.
-For more information, see [Recording in Studio One Made Easy: Recording Electric Guitar (video)](https://youtu.be/koho2W8FRkY?t=419)
 
 ## The Studio One User Interface
 ### Viewing the console
