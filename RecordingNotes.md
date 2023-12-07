@@ -7,15 +7,14 @@ Tracks and channels are different things:
 These concepts are explored further in [NO, Tracks and Channels are NOT the same. Here's why (video)](https://www.youtube.com/watch?v=5POLA2HMtRM)
 
 ## Sends
-A [send effect](#a_studio_one_send_with_compressor) can be used to blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
-advantage is that when you add a reverb to a send Studio One creates a separate effects channel for it. You can then add
+A [send effect](#a_studio_one_send_with_compressor) can be used to blend the effected audio (wet) with the non-effected (dry). Ideal candidates are things like reverb.
+One advantage of using a send is that when you add a reverb to a send, Studio One creates a separate effects channel for it. You can then add
 an EQ to the effects channel to take out, say 40Hz, from the wet signal without applying the EQ to the dry signal.
-Here is a channel showing a send configured for a compressor:
 
 ## Inserts
 An [insert effect](#a_studio_one_insert_with_reverb) will process the whole audio stream. A little like an effects pedal in a signal chain. What comes out is
 a wholly effected copy of what goes in. Ideal candidates are compression, distortion and pitch shifters. Anything where
-you want the effect to be applied to the whole signal. Here is a channel with an insert configured for a reverb:
+you want the effect to be applied to the whole signal.
 
 ## Track List
 Supports interaction with automation tracks for e.g. volume and pan. See [opening and viewing the track list](#studio_one_opening_and_viewing_track_list)
