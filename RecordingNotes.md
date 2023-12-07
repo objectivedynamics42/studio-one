@@ -115,27 +115,26 @@ You can hide tracks using [the channel list](#channel_list)
 ## Automatically returning to the start of a track once you've finished playing or recording
 Transport | Options |  Return to Start on Stop
 
-## Setting levels in Studio One
-### TODO add an example image and update the text
+## Setting levels
+### In Studio One
 Don't monitor using the normal channel strips. While you can use them they are really for use with outputs
 Instead, monitor the input level using the inputs tab in the console:
 
 ![input tab](https://github.com/objectivedynamics42/studio-one/blob/main/images/inputs-tab.png?raw=true)
 
-See [this video](https://www.youtube.com/watch?v=Qz0afhER6fo) for more information
+See also [this video](https://www.youtube.com/watch?v=Qz0afhER6fo) for more information
 
-
-Viewing the console:
-View | Console (F3)
-
-TODO Make proper markdown links and update the text
-The inputs tab can be opened and closed by clicking on the ->| icon on the left of the console
-https://www.youtube.com/watch?v=ZCJN9XxtPM4
-
-TODO Make proper markdown links and update the text
-On the AudioBox iTwo, turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
+### In AudioBox iTwo
+Turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
 hard in between increments. You want the input level to be in the range -12db to -10db
 https://youtu.be/koho2W8FRkY?t=419
+
+## The Studio One User Interface
+### Viewing the console
+```
+View | Console (F3)
+```
+See [this video covering mixer options and layouts in Studio One](https://www.youtube.com/watch?v=ZCJN9XxtPM4)
 
 ## Effects
 Some guff or other goes here
