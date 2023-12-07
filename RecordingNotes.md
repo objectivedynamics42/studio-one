@@ -24,16 +24,6 @@ The *Channel List* offers tools for grouping and adding busses for tracks. You c
 It can be opened using the *Channel List button*. See [opening and viewing the channel list](#studio_one_opening_and_viewing_channel_list)
 
 # Audio Setup
-## Options
-### Processing and the *audio roundtrip* value
-This can be set from the following menu:
-```
-    Studio one | Options... | Audio Setup | Processing 
-```
-Values below 10ms are recommended:
-
-![Audio Roundtrip](https://github.com/objectivedynamics42/studio-one/blob/main/images/latency-display.png?raw=true)
-
 ## Audiobox iTwo
 ### Inputs
 Each of the two inputs can accept line or instrument levels. You can switch between line and instrument level using the
@@ -53,58 +43,15 @@ Turn the control fully clockwise to hear the processed sound complete with plugi
 
 Direct monitoring for guitar  is likely to be most useful when using mostly outboard amps and effects as you will still hear them in the monitor.
 
-# Programming a drum track
+## Studio One
+### Latency
+Various parameters affect latency. These along with the current rount trip latency can be found here:
+```
+    Studio one | Options... | Audio Setup | Processing 
+```
+Round trip values below 10ms are recommended:
 
-## General Midi
-Here is a [general midi percussion key map](https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf)
-
-## Tips
-1. To duplicate a part or pattern, select the part or pattern and hit the D key
-
-## Steps to add a drum track
-1. Add an instrument track called "Kick"
-2. Drag an instance of Impact onto the newly added track
-3. Assign sound samples to midi channels by dragging the sound file onto the corresponding Impact pad. See the general midi percussion key map listed above for the pads to target
-4. After dropping a sample onto a pad, right-click and select "Rename pad". Applying a naming convention to pads can make the role of each pad easier to remember.
-Drum samples are stored here:
-> C:\Users\mike\Documents\Recording\Downloaded Samples\Drums
-
-| Key |Name|Sample|
-|-----|----|------|
-| C1  |Kick|Bass Drums\TS_NIR_Z_JJ_kick_one_shot_true_hard.wav|
-| D1  |Acoustic snare|Snares\TS_NIR_Z_JJ_snare_one_shot_craviolow_hard.wav|
-| F1  |Floor Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_3_hard.wav|
-| B1  |Low-Mid Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_2_hard.wav|
-| D2  |High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav|
-| F#1 |Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav|
-
-## Assigning a drum to an output channel
-In Impact, click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any
-channel:
-![Impact Output Assignment Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/impact-output-channelhighlighted.png?raw=true)
-
-## Adding effects
-### TODO Complete This Section
-
-## Sequencing patterns
-The Pattern Inspector can be used to create variations of a pattern. Click the 'i' as shown here:
-![Pattern Editor Image](https://github.com/objectivedynamics42/studio-one/blob/main/images/pattern-editor-showing-info-button.png?raw=true)
-
-## Quantizing
-Double-click on the track and it will open the midi editor
-
-## Separating Midi Drums into separate tracks
-This doesn't appear to work for drums where you've used "Convert part to pattern"...
-Right click on the track (where the recording is) and select 
-	Instrument Tracks
-		Explode Pitches to Tracks
-
-## Bouncing down Midi Tracks to Audio
-Right-click the channel that you want to bounce down and select *Transform to Audio Track*:
-
-![Transform to Audio Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/transform-to-audio-track.png?raw=true)
-
-For further examples see [Track Transform in Studio One (video)](https://www.youtube.com/watch?v=P4t4zngkrko)
+![Audio Roundtrip](https://github.com/objectivedynamics42/studio-one/blob/main/images/latency-display.png?raw=true)
 
 # Recording Audio
 ## Hiding unused channels
@@ -143,6 +90,59 @@ Above the "Main" fader (whatever it's called?) are three icons:
 	Click On/Off	Seems independent of the one on the transport panel
 	Click Volume	Changes the click volume - set it low about -16dB
 	Channel Mode	(looks like it's similar to the arm button but I'm not sure)
+
+# Programming a drum track
+
+## General Midi
+Here is a [general midi percussion key map](https://musescore.org/sites/musescore.org/files/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf)
+
+## Tips
+1. To duplicate a part or pattern, select the part or pattern and hit the D key
+
+## Steps to add a drum track
+1. Add an instrument track called "Kick"
+2. Drag an instance of Impact onto the newly added track
+3. Assign sound samples to midi channels by dragging the sound file onto the corresponding Impact pad. See the general midi percussion key map listed above for the pads to target
+4. After dropping a sample onto a pad, right-click and select "Rename pad". Applying a naming convention to pads can make the role of each pad easier to remember.
+   Drum samples are stored here:
+> C:\Users\mike\Documents\Recording\Downloaded Samples\Drums
+
+| Key |Name|Sample|
+|-----|----|------|
+| C1  |Kick|Bass Drums\TS_NIR_Z_JJ_kick_one_shot_true_hard.wav|
+| D1  |Acoustic snare|Snares\TS_NIR_Z_JJ_snare_one_shot_craviolow_hard.wav|
+| F1  |Floor Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_3_hard.wav|
+| B1  |Low-Mid Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_2_hard.wav|
+| D2  |High Tom|Toms\TS_NIR_Z_JJ_tom_one_shot_modern_tom_1_hard.wav|
+| F#1 |Closed Hi-Hat|Hats\TS_NIR_Z_JJ_hat_one_shot_tight_soft.wav|
+
+## Assigning a drum to an output channel
+In Impact, click the drum pad's "output channel assignment" button. From the popup you can assign the drum to any
+channel:
+![Impact Output Assignment Channel](https://github.com/objectivedynamics42/studio-one/blob/main/images/impact-output-channelhighlighted.png?raw=true)
+
+## Adding effects
+### TODO Complete This Section
+
+## Sequencing patterns
+The Pattern Inspector can be used to create variations of a pattern. Click the 'i' as shown here:
+![Pattern Editor Image](https://github.com/objectivedynamics42/studio-one/blob/main/images/pattern-editor-showing-info-button.png?raw=true)
+
+## Quantizing
+Double-click on the track and it will open the midi editor
+
+## Separating Midi Drums into separate tracks
+This doesn't appear to work for drums where you've used "Convert part to pattern"...
+Right click on the track (where the recording is) and select
+Instrument Tracks
+Explode Pitches to Tracks
+
+## Bouncing down Midi Tracks to Audio
+Right-click the channel that you want to bounce down and select *Transform to Audio Track*:
+
+![Transform to Audio Track](https://github.com/objectivedynamics42/studio-one/blob/main/images/transform-to-audio-track.png?raw=true)
+
+For further examples see [Track Transform in Studio One (video)](https://www.youtube.com/watch?v=P4t4zngkrko)
 
 ## Troubleshooting
 ### TODO add images and update the text
