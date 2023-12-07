@@ -126,8 +126,8 @@ See also [this video](https://www.youtube.com/watch?v=Qz0afhER6fo) for more info
 
 ### In AudioBox iTwo
 Turn the input level shaft encoder down to zero and then edge it up gradualy while playing pretty
-hard in between increments. You want the input level to be in the range -12db to -10db
-https://youtu.be/koho2W8FRkY?t=419
+hard in between increments. You want the input level to be in the range -12db to -10db.
+For more information, see [this video on recording the electric guitar](https://youtu.be/koho2W8FRkY?t=419)
 
 ## The Studio One User Interface
 ### Viewing the console
