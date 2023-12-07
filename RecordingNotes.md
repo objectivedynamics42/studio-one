@@ -24,6 +24,17 @@ Supports interaction with automation tracks for e.g. volume and pan. See [openin
 The *Channel List* offers tools for grouping and adding busses for tracks. You can also show and hide tracks from here.
 It can be opened using the *Channel List button*. See [opening and viewing the channel list](#studio_one_opening_and_viewing_channel_list)
 
+# Audio Setup
+## Options
+### Processing and the *audio roundtrip* value
+This can be set from the following menu:
+```
+    Studio one | Options... | Audio Setup | Processing 
+```
+Values below 10ms are recommended:
+
+![Audio Roundtrip](https://github.com/objectivedynamics42/studio-one/blob/main/images/latency-display.png?raw=true)
+
 # Programming a drum track
 
 ## General Midi
