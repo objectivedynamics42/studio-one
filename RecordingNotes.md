@@ -4,7 +4,7 @@ Tracks and channels are different things:
 * [A track](#a_studio_one_track) is a component of the *Song Arranger* view. 
 * [A channel](#a_studio_one_channel) is a component of the *Console* view
 
-These concepts are explored further in [this Presonus video](https://www.youtube.com/watch?v=5POLA2HMtRM)
+These concepts are explored further in [NO, Tracks and Channels are NOT the same. Here's why (video)](https://www.youtube.com/watch?v=5POLA2HMtRM)
 
 ## Sends
 A [send effect](#a_studio_one_send_with_compressor) can be used to blend the effected audio (wet) with the non-effected (dry). Ideal candidates as things like reverb. A second
