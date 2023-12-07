@@ -72,7 +72,9 @@ See also [how to set recording levels (video)](https://www.youtube.com/watch?v=Q
 You can hide tracks using [the channel list](#channel_list)
 
 ## Automatically returning to the start of a track once you've finished playing or recording
+```
 Transport | Options |  Return to Start on Stop
+```
 
 ## The Studio One User Interface
 ### Viewing the console
