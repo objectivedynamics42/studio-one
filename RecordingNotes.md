@@ -158,6 +158,19 @@ Check that you have the input (left or right/input 1 or input 2) selected for th
 	This latter trick is often employed to make the performer feel more comfortable with the overall
 	sound without actually committing the reverb to the track
 
+# Line6 Helix
+## The different ways of controling volume
+For more information, watch [The MOST Important Thing To Know About Helix Amp Blocks](https://www.youtube.com/watch?v=ltSdr4BbhKg)
+* The *drive* control increases or decreases the signal into the preamp, generally resulting in more or less distortion
+* The *master volume* control increases or decreases the amount of signal into the power amp section. Higher values will result 
+in the power amp being driven harder
+* The *channel volume* control increases or decreases the loudness of the output without affecting the preset's tone. 
+
+## Adding new blocks quickly
+### Page Left and Right
+When adding a new block you can scroll through the options without leaving the home page. Just hold Page Left and scroll forward
+through the models by pressing Page Right or hold Page Right and scroll backward by pressing Page Left 
+
 # Appendix
 ## A Studio One Track <a name="a_studio_one_track"></a>
 
